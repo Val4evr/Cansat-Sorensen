@@ -14,9 +14,11 @@ The aim of the ESA hosted Cansat competition is to design and manufacture a soda
 - Groundstation with another RFM95 , MCU and laptop connected via serial
 
 ![The Cansat, half disasembled, with lots of wires and electronic components visible.](https://github.com/Val4evr/Cansat-Sorensen/blob/master/Cansat%20image.png?raw=true)
+
 Image of the Cansat internals. The outer case is FDM printed out of PLA, and the end plugs and internal components are SLA printed out of resin. 
 
 ![Computer render of the Cansat internals, wires missing.](https://github.com/Val4evr/Cansat-Sorensen/blob/master/CAD%20image.png)
+
 CAD of the Cansat internals. The drill is driven in the Z axis by a lead screw. Limit switches act as endstops and carbon tubes are used as linear rods. 
 
 CAD and mechanical design by [William Chen](https://www.linkedin.com/in/william-chen-1b2942217/).
